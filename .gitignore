@@ -81,3 +81,11 @@ clj-e2e/e2e-dump
 .dir-locals.el
 .projectile
 deps/db-sync/data
+
+# Build artifacts and platform-specific folders
+android/
+ios/
+fastlane/
+ssl/
+log/
+.archive-sync-state.json
